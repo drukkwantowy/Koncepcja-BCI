@@ -8,3 +8,4 @@ Koncepcja urządzenia BCI jak i aparatury do badania EEG, diagnozy czy wgrywania
 BCI można relizować za pomocą fal radiowych bez konwerterów jako moduł USB lub moduł stały w komputerze do sterowania komputera sygnał aby był pasywny musi być wzmocniony.
 Taki moduł BCI może być 2 kierunkowy może czytać myśli jak i wgrywać coś do DNA. 
 BCI można sprawdzić IQ i EQ analizując neurony bez wykonywania czyności.  
+Moduł BCI nalerzy zintegrować z telefonem, tabletem, laptopem. 
