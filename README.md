@@ -9,3 +9,4 @@ BCI można relizować za pomocą fal radiowych bez konwerterów jako moduł USB 
 Taki moduł BCI może być 2 kierunkowy może czytać myśli jak i wgrywać coś do DNA. 
 BCI można sprawdzić IQ i EQ analizując neurony bez wykonywania czyności.  
 Moduł BCI nalerzy zintegrować z telefonem, tabletem, laptopem. 
+Łączność telepatyczną można uzupełnić o wyobrażenia jakiegoś obrazu i pomieszczenia w głowie. To może dać początek graficznemu interfejsowi do głowy. 
